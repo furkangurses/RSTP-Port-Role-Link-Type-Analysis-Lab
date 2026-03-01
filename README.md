@@ -1,4 +1,4 @@
-![Topology Diagram]()
+![Topology Diagram](https://github.com/furkangurses/RSTP-Port-Role-Link-Type-Analysis-Lab/blob/main/654376.PNG?raw=true)
 
 # RSTP Port Role & Link-Type Analysis Lab
 
